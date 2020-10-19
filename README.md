@@ -3,7 +3,7 @@ Valor is a communication platform
 
 This project uses React, Redux and Firebase.
 
-## Deployement
+## Deployment
 https://valor-bca2b.web.app/
 
 ## Contributing
