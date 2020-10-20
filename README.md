@@ -7,4 +7,4 @@ This project uses React, Redux and Firebase.
 https://valor-bca2b.web.app/
 
 ## Contributing
-Pull requets are welcome.
+Pull requests are welcome.
